@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url(/order-summary-component-main/images/pattern-background-desktop.svg);
+  background-image: url(/images/pattern-background-desktop.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-color: hsl(225, 100%, 94%);
